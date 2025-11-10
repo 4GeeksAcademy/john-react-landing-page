@@ -10,7 +10,7 @@ export let cardData = [{
 { 
     title: "Kingdom Come: Deliverance II",
     description: "Kingdom Come: Deliverance II es un videojuego de rol desarrollado por Warhorse Studios y ha sido publicado por Deep Silver. Deliverance es la secuela de Kingdom Come: Deliverance y fue lanzado en todo el mundo el día 4 de febrero del año 2025",
-    imgUrl: "https://movistaresports.com/wp-content/uploads/2025/08/kcd2-arte.webp",
+    imgUrl: "https://i.blogs.es/8ed402/kcd-2/1200_800.jpeg",
     buttonUrl: "https://www.deepsilver.com/es/games/kingdom-come-deliverance-ii",
     buttonLabel: "Game Page"
 },
